@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageSearcher</string>
+    <string name="hello_text">Welcome in ImageSearcher!\n Enter the keyword you are interested in and I will display what you want!</string>
+    <string name="txtfld_name">Type here…</string>
+    <string name="dialog_question">Show more details?</string>
+    <string name="dialog_pos">Yes</string>
+    <string name="dialog_neg">No</string>
+    <string name="detail_header">Photo details</string>
+</resources>
